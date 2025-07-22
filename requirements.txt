@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+llama-index
+llama-index-agent
+llama-index-llms-openai
+sqlalchemy
+aiosqlite
+pydantic
+python-dotenv
