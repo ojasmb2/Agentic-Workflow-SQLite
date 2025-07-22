@@ -2,7 +2,7 @@ fastapi
 uvicorn
 llama-index
 llama-index-agent
-llama-index-llms-openai
+llama-index-llms-ollama
 sqlalchemy
 aiosqlite
 pydantic
